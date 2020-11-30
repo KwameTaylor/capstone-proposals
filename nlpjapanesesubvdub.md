@@ -48,6 +48,7 @@ No.
 ---
 
 > Is there any part of this project that can't be shared publicly?
+
 No.
 
 ---
