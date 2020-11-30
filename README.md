@@ -1,1 +1,2 @@
-# capstone-proposals
+# Capstone Proposals
+### Kwame V. Taylor
