@@ -63,6 +63,6 @@ Features marking seasonality can include:
  * Day of Month
  * Year
  * Season (Quarters split by Equinoxes and Solstices)
- * Astrological Sun
+ * Astrological Sun Sign of that day
  * Moon Phases
  * Events such as Eclipses, Holidays
