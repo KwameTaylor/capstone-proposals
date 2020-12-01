@@ -9,6 +9,10 @@ This project will explore the seasonality of music tracks on Spotify using time-
 
 The goal is to predict how well a particular kind of song will do based on season, so that publishers can time the release of singles and albums to be during peak seasonality for that kind of song.
 
+Does Lo-fi get played during the day, at night, or in the morning?
+
+Does distance to the equator change the seasonality of a particular song or songs?
+
 ---
 
 > From a business / stakeholder perspective, what are the deliverables of this project? (It's okay if this is hypothetical at this point)
