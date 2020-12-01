@@ -13,6 +13,8 @@ Does Lo-fi get played during the day, at night, or in the morning?
 
 Does distance to the equator change the seasonality of a particular song or songs?
 
+Which timezone plays the most K-Pop across all months?
+
 ---
 
 > From a business / stakeholder perspective, what are the deliverables of this project? (It's okay if this is hypothetical at this point)
