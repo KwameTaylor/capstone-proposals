@@ -52,4 +52,11 @@ No.
 
 > Provide any additional details on what your project will entail.
 
-No additional details at this time.
+Features marking seasonality can include:
+ * Month
+ * Day of Month
+ * Year
+ * Season (Quarters split by Equinoxes and Solstices)
+ * Astrological Sun
+ * Moon Phases
+ * Events such as Eclipses, Holidays
