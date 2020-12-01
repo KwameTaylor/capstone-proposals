@@ -66,3 +66,13 @@ Features marking seasonality can include:
  * Astrological Sun Sign of that day
  * Moon Phases
  * Events such as Eclipses, Holidays
+
+---
+
+### References:
+
+* https://www.futurity.org/spotify-music-choices-1968772-2/
+* https://api.chartmetric.com/apidoc/#api-Charts-GetSpotifyTracksChart
+* https://github.com/search?q=spotify+map
+* https://www.nature.com/articles/s41562-018-0508-z?platform=hootsuitehttps%3A%2F%2Fwww.nature.com%2Farticles%2Fs41586-019-0889-9%3Fplatform%3Dhootsuite
+* https://blog.chartmetric.com/covid-19-effect-on-the-global-music-business-part-1-genre/
